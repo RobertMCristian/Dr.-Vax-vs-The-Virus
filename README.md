@@ -1,33 +1,27 @@
-# 🎮 Shadow Escape
+# Shadow Escape
 
-**Shadow Escape** este un joc 2D stealth side-scroller realizat în Unity, în care jucătorul controlează un spion ce trebuie să se furișeze printr-o bază păzită. Scopul este colectarea de documente secrete și evadarea fără a fi detectat de inamici sau camere de supraveghere.
+Shadow Escape este un joc 2D stealth side-scroller realizat in Unity, in care jucatorul controleaza un spion ce trebuie sa se furiseze printr-o baza pazita. Scopul este colectarea de documente secrete si evadarea fara a fi detectat de inamici sau camere de supraveghere.
 
----
+## Caracteristici principale
 
-## 📌 Caracteristici principale
-
-- Mișcare 2D stânga/dreapta + sărituri
-- Sistem stealth (zone de umbră, ascunzători)
+- Miscare 2D stanga/dreapta + sarituri
+- Sistem stealth (zone de umbra, ascunzatori)
 - Inamici cu AI de patrulare
 - Camere de supraveghere
-- Documente colectabile și obiective
-- Interacțiuni contextuale (ex: uși, terminale)
+- Documente colectabile si obiective
+- Interactiuni contextuale (ex: usi, terminale)
 - HUD, scor, meniu principal
-- Sunete, efecte și muzică de fundal
+- Sunete, efecte si muzica de fundal
 
----
+## Tehnologii folosite
 
-## 🔧 Tehnologii folosite
+- Engine: Unity
+- Limbaj: C#
+- Librarii: UnityEngine, UnityEngine.UI, Physics2D
+- Pachete externe (optional):
+  - Cinemachine (miscare camera)
+  - TextMeshPro (text clar si personalizabil)
+  - DoTween (animatii fluide in cod)
 
-- **Engine:** Unity
-- **Limbaj:** C#  
-- **Librării:** UnityEngine, UnityEngine.UI, Physics2D  
-- **Pachete externe (opțional):**
-  - Cinemachine (mișcare cameră)
-  - TextMeshPro (text clar și personalizabil)
-  - DoTween (animații fluide în cod)
-
----
-
-## 🗂️ Structura proiectului (scurtă)
+## Structura proiectului (scurta)
 
