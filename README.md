@@ -34,5 +34,5 @@ Inspired by the global pandemic, the game symbolizes the fight between science a
 
 
 
-🧠 Stay safe, stay strong — fight the virus with Dr. Vax!
+Stay safe, stay strong — fight the virus with Dr. Vax!
 
