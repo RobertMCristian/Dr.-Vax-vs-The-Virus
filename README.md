@@ -1,27 +1,38 @@
-# Shadow Escape
+# Dr. Vax: Endless Runner
 
-Shadow Escape este un joc 2D stealth side-scroller realizat in Unity, in care jucatorul controleaza un spion ce trebuie sa se furiseze printr-o baza pazita. Scopul este colectarea de documente secrete si evadarea fara a fi detectat de inamici sau camere de supraveghere.
+**Dr. Vax: Endless Runner** is a WebGL game developed using Unity 6, where you control Dr. Vax, a scientist flying a syringe-shaped ship. Your mission is to avoid mutant viruses and survive as long as possible in an endless viral world.
 
-## Caracteristici principale
+## Game Concept
 
-- Miscare 2D stanga/dreapta + sarituri
-- Sistem stealth (zone de umbra, ascunzatori)
-- Inamici cu AI de patrulare
-- Camere de supraveghere
-- Documente colectabile si obiective
-- Interactiuni contextuale (ex: usi, terminale)
-- HUD, scor, meniu principal
-- Sunete, efecte si muzica de fundal
+Inspired by the global pandemic, the game symbolizes the fight between science and disease. With simple mechanics and symbolic graphics, it offers a fun, fast-paced experience directly in your browser.
 
-## Tehnologii folosite
+- Browser-based (WebGL)
+- Endless runner gameplay
+- Built-in story and narrative intro
+- Pause and Game Over functionality
 
-- Engine: Unity
-- Limbaj: C#
-- Librarii: UnityEngine, UnityEngine.UI, Physics2D
-- Pachete externe (optional):
-  - Cinemachine (miscare camera)
-  - TextMeshPro (text clar si personalizabil)
-  - DoTween (animatii fluide in cod)
+## Technologies Used
 
-## Structura proiectului (scurta)
+- **Engine:** Unity 6
+- **Language:** C# (MonoBehaviour scripts)
+- **Platform:** WebGL (exported for browser play)
+
+## External Assets
+
+- **Music:** [Unity Asset Store – Free Music Section](https://assetstore.unity.com)
+- **Icons:** [Icons8.com](https://icons8.com)
+- ☁**Skybox & Fonts:** Unity default assets
+
+## Installation & How to Play
+
+1. Download or clone the repository.
+2. Open the project in Unity 6.
+3. Build the project for WebGL (`File → Build Settings → WebGL`).
+4. Open the `index.html` file from the WebGL build in a browser.
+5. Use `Arrow keys` or `Space` to control Dr. Vax.
+6. Avoid viruses and survive as long as possible!
+
+
+
+🧠 Stay safe, stay strong — fight the virus with Dr. Vax!
 
