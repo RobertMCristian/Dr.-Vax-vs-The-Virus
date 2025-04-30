@@ -8,7 +8,7 @@ Inspired by the global pandemic, the game symbolizes the fight between science a
 
 - Browser-based (WebGL)
 - Endless runner gameplay
-- Built-in story and narrative intro
+- Built-in story page
 - Pause and Game Over functionality
 
 ## Technologies Used
